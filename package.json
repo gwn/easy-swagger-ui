@@ -1,0 +1,12 @@
+{
+  "name": "easy-swagger-ui",
+  "version": "0.1.0",
+  "author": "gwn <dev@gwn.wtf>",
+  "license": "ISC",
+  "dependencies": {
+    "swagger-ui": "^3.51.1"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0"
+  }
+}
